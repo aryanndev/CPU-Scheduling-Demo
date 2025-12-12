@@ -1,0 +1,4 @@
+flask
+matplotlib
+pandas
+plotly  # optional, frontend uses CDN so not strictly required
