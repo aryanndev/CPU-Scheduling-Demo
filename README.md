@@ -1,6 +1,6 @@
 # Energy-Efficient CPU Scheduler
 
-A simple CPU scheduling simulator with CLI and GUI modes.  
+A simple CPU scheduling simulator with GUI modes.  
 Supports FCFS, SJF, Priority, and Energy-Aware scheduling.
 
 ## Features
@@ -8,7 +8,7 @@ Supports FCFS, SJF, Priority, and Energy-Aware scheduling.
 - Energy consumption tracking
 - JSON import/export
 - System monitoring (CPU, temperature, cores)
-- CLI + GUI modes
+- GUI modes
 
 ## Install Requirements
 ```bash
